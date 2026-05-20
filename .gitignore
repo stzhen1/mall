@@ -1,0 +1,30 @@
+# IDE / Tools
+.superpowers/
+
+# Documentation
+docs/
+
+# Java
+mall-server/target/
+*.class
+*.jar
+*.war
+
+# Node
+mall-web-buyer/node_modules/
+mall-web-seller/node_modules/
+mall-web-admin/node_modules/
+mall-web-buyer/dist/
+mall-web-seller/dist/
+mall-web-admin/dist/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
